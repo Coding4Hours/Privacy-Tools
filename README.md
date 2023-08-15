@@ -6,8 +6,8 @@
   <ol>
     <li>
     <li>
+     <li><a href="#vpns">VPNs</a></li>
       <ul>
-        <li><a href="#vpns">VPNs</a></li>
         <li><a href="#decentralized-vpns">dVPNs</a></li>
         <li><a href="#browser">Browsers</a></li>
         <li><a href="#browser-extensions">Browser Extensions</a></li>
