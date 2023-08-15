@@ -5,14 +5,19 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
     <li>
       <ul>
-        <li><a href="#VPN's">Prerequisites</a></li>
+        <li><a href="#vpns">VPNs</a></li>
+        <li><a href="#decentralized-vpns">dVPNs</a></li>
+        <li><a href="#browser">Browsers</a></li>
+        <li><a href="#browser-extensions">Browser Extensions</a></li>
+        <li><a href="#password-managers">Password Managers</a></li>
+        <li><a href="#decentralized-vpns">dVPNs</a></li>
+        <li><a href="#decentralized-vpns">dVPNs</a></li>
+        <li><a href="#decentralized-vpns">dVPNs</a></li>
+        <li><a href="#decentralized-vpns">dVPNs</a></li>
+        <li><a href="#decentralized-vpns">dVPNs</a></li>
+        <li><a href="#decentralized-vpns">dVPNs</a></li>
   </ol>
 </details>
 
