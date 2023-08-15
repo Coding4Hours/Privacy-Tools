@@ -3,10 +3,6 @@
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
-  <ol>
-    <li>
-    <li>
-     <li><a href="#vpns">VPNs</a></li>
       <ul>
         <li><a href="#decentralized-vpns">dVPNs</a></li>
         <li><a href="#browser">Browsers</a></li>
