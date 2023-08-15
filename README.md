@@ -29,6 +29,8 @@
 [4](https://protonvpn.com/)
 [5](https://mullvad.net/en/why-mullvad-vpn)
 
+<p align="right">(<a href="#readme">back to top</a>)</p>
+
 # Decentralized VPN's
 [1](https://safing.io/spn/)
 [2](https://sentinel.co/)
@@ -40,7 +42,7 @@
 [8](https://hoprnet.org/)
 [9](https://boringprotocol.io/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme">back to top</a>)</p>
 
 # Browser's
 [1](https://librewolf.net/)
@@ -56,7 +58,7 @@
 [11](https://www.opera.com/)
 [12](https://vivaldi.com/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme">back to top</a>)</p>
 
 # Browser Extension's
 [1](https://github.com/gorhill/uBlock#ublock-origin)
@@ -66,7 +68,7 @@
 [5](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete#installation)
 [6](https://sponsor.ajay.app/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme">back to top</a>)</p>
 
 # Password Manager's
 [1](https://www.nordpress.com/)
@@ -76,7 +78,7 @@
 [5](https://spectre.app/)
 [6](https://www.dashlane.com/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme">back to top</a>)</p>
 
 # 2FA Codes Generator's
 [1](https://2fas.com/)
@@ -86,7 +88,7 @@
 [5](https://www.tofuauth.com/)
 [6](https://github.com/raivo-otp/marketing-website/issues/19)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme">back to top</a>)</p>
 
 # Cloud Storage Provider's
 [1](https://internxt.com/)
@@ -97,13 +99,13 @@
 [6](https://nextcloud.com/)
 [7](https://filen.io/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme">back to top</a>)</p>
 
 # Cloud Service Proider's
 [1](https://kasmweb.com/)
 [2](https://www.docker.com/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme">back to top</a>)</p>
 
 # Cryptocurrency Transfer
 [1](https://stealthex.io/)
@@ -117,6 +119,6 @@
 [9](https://unstoppableswap.net/)
 [10](https://www.kraken.com/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme">back to top</a>)</p>
 
 # Messaging Apps
