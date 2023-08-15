@@ -1,4 +1,3 @@
-# Privacy Tools
 
 <!-- TABLE OF CONTENTS -->
 <details>
