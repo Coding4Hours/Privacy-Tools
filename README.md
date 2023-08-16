@@ -14,6 +14,7 @@
         <li><a href="#cryptocurrency-transfer">Cryptocurrency Transfer</a></li>
         <li><a href="#messaging-apps">Messaging Apps</a></li>
         <ul>
+        <li><a href="#messaging-apps">Messaging Apps</a></li>
   </ol>
 </details>
 
