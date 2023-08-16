@@ -194,4 +194,4 @@
 
 
 
-<p align="center"> <a href="https://www.privacytools.io/img/1984.jpg" target="_blank" rel="noreferrer"> <img src="https://www.privacytools.io/img/1984.jpg" alt="FBI is watching you" width="40" height="40"/> </a>></p>
+<p align="center"> <a href="https://www.privacytools.io/img/1984.jpg" target="_blank" rel="noreferrer"> <img src="https://www.privacytools.io/img/1984.jpg" alt="FBI is watching you"/> </a></p>
