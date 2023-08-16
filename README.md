@@ -184,14 +184,3 @@
 [6](https://hat.sh/)
 
 <p align="right">(<a href="#readme">back to top</a>)</p>
-
-
-
-
-
-
-
-
-
-
-<p align="center"> <a href="https://www.privacytools.io/img/1984.jpg" target="_blank" rel="noreferrer"> <img src="https://www.privacytools.io/img/1984.jpg" alt="FBI is watching you"/> </a></p>
