@@ -15,6 +15,7 @@
         <li><a href="#messaging-apps">Messaging Apps</a></li>
         <ul>
         <li><a href="#messaging-apps-via-tor">Messaging Apps Via Tor</a></li>
+        <li><a href="#private-and-secure-team-chats---open-source"> Private and Secure Team Chats(Open-Source)</a></li>
   </ol>
 </details>
 
