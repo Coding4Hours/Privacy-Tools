@@ -127,6 +127,8 @@
 [4](https://threema.ch/en)
 [5](https://delta.chat/en/)
 
+<p align="right">(<a href="#readme">back to top</a>)</p>
+
 # Messaging Apps Via Tor
 [1](https://cwtch.im/)
 [2](https://speek.network/)
@@ -135,10 +137,14 @@
 [5](https://tox.chat/)
 [6](https://telegram.org/)
 
+<p align="right">(<a href="#readme">back to top</a>)</p>
+
 #  Private and Secure Team Chats - Open-Source
 [1](https://element.io/)
 [2](https://www.rocket.chat/)
 [3](https://revolt.chat/)
+
+<p align="right">(<a href="#readme">back to top</a>)</p>
 
 # Encrypted Video & Voice Messengers
 [1](https://brave.com/talk/)
@@ -146,9 +152,22 @@
 [3](https://www.linphone.org/)
 [4](https://jitsi.org/)
 
+<p align="right">(<a href="#readme">back to top</a>)</p>
+
 # DNS
 [1](https://nextdns.io/)
 [2](https://adguard-dns.io/)
 [3](https://quad9.net/)
 [4](https://1.1.1.1/)
 [5](https://pi-hole.net/)
+
+<p align="right">(<a href="#readme">back to top</a>)</p>
+
+# Encrypted DNS
+[1](https://github.com/DNSCrypt/dnscrypt-proxy#readme)
+[2](https://nlnetlabs.nl/projects/unbound/about/)
+[3](https://git.frostnerd.com/PublicAndroidApps/smokescreen/)
+[4](https://github.com/s-s/dnscloak#readme)
+
+<p align="right">(<a href="#readme">back to top</a>)</p>
+
