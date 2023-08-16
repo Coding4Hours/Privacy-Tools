@@ -16,6 +16,7 @@
         <ul>
         <li><a href="#messaging-apps-via-tor">Messaging Apps Via Tor</a></li>
         <li><a href="#private-and-secure-team-chats---open-source"> Private and Secure Team Chats(Open-Source)</a></li>
+          
   </ol>
 </details>
 
@@ -139,3 +140,15 @@
 [2](https://www.rocket.chat/)
 [3](https://revolt.chat/)
 
+# Encrypted Video & Voice Messengers
+[1](https://brave.com/talk/)
+[2](https://jami.net/)
+[3](https://www.linphone.org/)
+[4](https://jitsi.org/)
+
+# DNS
+[1](https://nextdns.io/)
+[2](https://adguard-dns.io/)
+[3](https://quad9.net/)
+[4](https://1.1.1.1/)
+[5](https://pi-hole.net/)
