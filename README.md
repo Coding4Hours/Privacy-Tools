@@ -6,14 +6,23 @@
   <li>
       <ul>
         <li><a href="#decentralized-vpns">dVPNs</a></li>
+        <ul>
         <li><a href="#browser">Browsers</a></li>
+          <ul>
         <li><a href="#browser-extensions">Browser Extensions</a></li>
+            <ul>
         <li><a href="#password-managers">Password Managers</a></li>
+              <ul>
         <li><a href="#decentralized-vpns">dVPNs</a></li>
+                <ul>
         <li><a href="#decentralized-vpns">dVPNs</a></li>
+                  <ul>
         <li><a href="#decentralized-vpns">dVPNs</a></li>
+                    <ul>
         <li><a href="#decentralized-vpns">dVPNs</a></li>
+                      <ul>
         <li><a href="#decentralized-vpns">dVPNs</a></li>
+                        <ul>
         <li><a href="#decentralized-vpns">dVPNs</a></li>
   </ol>
 </details>
