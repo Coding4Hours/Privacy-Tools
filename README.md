@@ -16,7 +16,10 @@
         <ul>
         <li><a href="#messaging-apps-via-tor">Messaging Apps Via Tor</a></li>
         <li><a href="#private-and-secure-team-chats---open-source"> Private and Secure Team Chats(Open-Source)</a></li>
-          
+        </ul>
+        <li><a href="#encrypted-video--voice-messengers">Encrypted Video & Voice Messengers</a></li>
+        <li><a href="#dns">DNS</a></li>
+        <li><a href="#encrypted-dns">Enrypted DNS</li>
   </ol>
 </details>
 
