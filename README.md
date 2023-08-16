@@ -20,6 +20,7 @@
         <li><a href="#encrypted-video--voice-messengers">Encrypted Video & Voice Messengers</a></li>
         <li><a href="#dns">DNS</a></li>
         <li><a href="#encrypted-dns">Enrypted DNS</li>
+        <li><a href="#file-encryption">File Encryption</li>
   </ol>
 </details>
 
@@ -174,3 +175,23 @@
 
 <p align="right">(<a href="#readme">back to top</a>)</p>
 
+# File Encryption
+[1](https://veracrypt.fr/en/Home.html)
+[2](https://gnupg.org/)
+[3](https://7-zip.org/)
+[4](https://cryptomator.org/)
+[5](https://github.com/HACKERALERT/Picocrypt)
+[6](https://hat.sh/)
+
+<p align="right">(<a href="#readme">back to top</a>)</p>
+
+
+
+
+
+
+
+
+
+
+<p align="center"> <a href="https://www.privacytools.io/img/1984.jpg" target="_blank" rel="noreferrer"> <img src="https://www.privacytools.io/img/1984.jpg" alt="FBI is watching you" width="40" height="40"/> </a>></p>
