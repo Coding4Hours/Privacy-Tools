@@ -14,7 +14,7 @@
         <li><a href="#cryptocurrency-transfer">Cryptocurrency Transfer</a></li>
         <li><a href="#messaging-apps">Messaging Apps</a></li>
         <ul>
-        <li><a href="#messaging-apps">Messaging Apps</a></li>
+        <li><a href="#messaging-apps-via-tor">Messaging Apps Via Tor</a></li>
   </ol>
 </details>
 
@@ -124,3 +124,17 @@
 [3](https://signal.org/)
 [4](https://threema.ch/en)
 [5](https://delta.chat/en/)
+
+# Messaging Apps Via Tor
+[1](https://cwtch.im/)
+[2](https://speek.network/)
+[3](https://briarproject.org/)
+[4](https://www.ricochetrefresh.net/)
+[5](https://tox.chat/)
+[6](https://telegram.org/)
+
+#  Private and Secure Team Chats - Open-Source
+[1](https://element.io/)
+[2](https://www.rocket.chat/)
+[3](https://revolt.chat/)
+
