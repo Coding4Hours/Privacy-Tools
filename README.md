@@ -8,12 +8,12 @@
         <li><a href="#browser">Browsers</a></li>
         <li><a href="#browser-extensions">Browser Extensions</a></li>
         <li><a href="#password-managers">Password Managers</a></li>
-        <li><a href="#decentralized-vpns">dVPNs</a></li>
-        <li><a href="#decentralized-vpns">dVPNs</a></li>
-        <li><a href="#decentralized-vpns">dVPNs</a></li>
-        <li><a href="#decentralized-vpns">dVPNs</a></li>
-        <li><a href="#decentralized-vpns">dVPNs</a></li>
-        <li><a href="#decentralized-vpns">dVPNs</a></li>
+        <li><a href="#2fa-codes-generators">2Fa Code Generators</a></li>
+        <li><a href="#cloud-storage-providers">Cloud Storage Providers</a></li>
+        <li><a href="#cloud-service-proiders">Cloud Service Provider</a></li>
+        <li><a href="#cryptocurrency-transfer">Cryptocurrency Transfer</a></li>
+        <li><a href="#messaging-apps">Messaging Apps</a></li>
+        <ul>
   </ol>
 </details>
 
@@ -118,3 +118,8 @@
 <p align="right">(<a href="#readme">back to top</a>)</p>
 
 # Messaging Apps
+[1](https://getsession.org/)
+[2](https://status.im/)
+[3](https://signal.org/)
+[4](https://threema.ch/en)
+[5](https://delta.chat/en/)
