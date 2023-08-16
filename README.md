@@ -4,39 +4,17 @@
 <details>
   <summary>Table of Contents</summary>
   <li>
-      <ul>
+      <ol>
         <li><a href="#decentralized-vpns">dVPNs</a></li>
-        <ul>
         <li><a href="#browser">Browsers</a></li>
-          <ul>
         <li><a href="#browser-extensions">Browser Extensions</a></li>
-            <ul>
         <li><a href="#password-managers">Password Managers</a></li>
-              <ul>
         <li><a href="#decentralized-vpns">dVPNs</a></li>
-                <ul>
         <li><a href="#decentralized-vpns">dVPNs</a></li>
-                  <ul>
         <li><a href="#decentralized-vpns">dVPNs</a></li>
-                    <ul>
         <li><a href="#decentralized-vpns">dVPNs</a></li>
-                      <ul>
         <li><a href="#decentralized-vpns">dVPNs</a></li>
-                        <ul>
         <li><a href="#decentralized-vpns">dVPNs</a></li>
-  </ol>
-</details>
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
